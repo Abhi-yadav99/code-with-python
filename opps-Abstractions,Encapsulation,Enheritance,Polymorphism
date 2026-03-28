@@ -1,0 +1,112 @@
+class Student:  #class
+    def __init__(self,name,grade,percentage,team):   #methode
+        self.name = name
+        self.grade = grade
+        self.percentage = percentage
+        self.team = team
+    def student_details(self):   #methode
+        print(f"{self.name} is in {self.grade} with {self.percentage}% from {self.team}")
+team1 = "A"
+team2 = "B"
+
+student1 = Student("Abhi",10,90,team1)  #object
+student2 = Student("Akash",9,92,team2)  #object
+print(student1.name)
+student1.student_details()
+print(student2.team)
+print(student1.__dict__)
+print(student2.__dict__)
+
+student1.name = "Prem"        #name change
+print(student1.name)
+del student1.team             # delete team
+print(student1.__dict__)
+
+
+#incapsulation
+
+
+class Student:  #class
+    def __init__(self,name,grade,percentage,team):   #methode
+        self.name = name
+        self.grade = grade
+        self.__percentage = percentage  # double underscore limit access
+        self.team = team
+        
+    def get_percentage(self):
+        return self.__percentage
+        
+    def student_details(self):   #methode
+        print(f"{self.name} is in {self.grade} with {self.__percentage}% from {self.team}")
+team1 = "A"
+team2 = "B"
+
+student1 = Student("Abhi",10,90,team1)  #object
+student2 = Student("Akash",9,92,team2)  #object
+student1.student_details()
+print(student2.team)
+print(student1.__dict__)
+print(student2.__dict__)
+
+student1.name = "Prem"        #name change
+print(student1.name)
+del student1.team             # delete team
+print(student1.__dict__)
+ 
+print(student1.get_percentage())
+
+
+#inheritance
+
+baap class
+class Student:  #class
+    def __init__(self,name,grade,percentage,team):   #methode
+        self.name = name
+        self.grade = grade
+        self.__percentage = percentage  # double underscore limit access
+        self.team = team
+        
+    def get_percentage(self):
+        return self.__percentage
+        
+    def student_details(self):   #methode
+        print(f"{self.name} is in {self.grade} with {self.__percentage}% from {self.team}")
+team1 = "A"
+team2 = "B"
+
+student1 = Student("Abhi",10,90,team1)  #object
+student2 = Student("Akash",9,92,team2)  #object
+
+child class
+
+class GraduateStudent(Student):
+    def __init__(self,name,grade,percentage,stream):   # old parameters from parent class & new parameters  in child class
+        super().__init__(name,grade,percentage,stream)  #call parent class init
+        self.stream = stream  # new attributes in child class
+        
+    def student_details(self):
+        super().student_details()    # methode is inherit from parent class
+        print(f'stream is {self.stream}')
+
+gra_Student1 = GraduateStudent("keshav",12,96,'PCM')
+print(gra_Student1.stream)
+
+gra_Student1.student_details()
+
+
+
+#Polymorphism
+
+class GraduateStudent(Student):
+    def __init__(self,name,grade,percentage,stream):   # old parameters from parent class & new parameters  in child class
+        super().__init__(name,grade,percentage,stream)  #call parent class init
+        self.stream = stream  # new attributes in child class
+        
+    def student_details(self):
+        print(f'{self.name} is in class {self.grade}, with {self.percentage}% from stream is {self.stream}')
+
+student1 = Student("Abhi",10,90,team1)  #object
+
+gra_Student1 = GraduateStudent("keshav",12,96,'PCM')
+student1.student_details()
+gra_Student1.student_details()
