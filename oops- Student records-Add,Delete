@@ -1,0 +1,25 @@
+class Student:  #class
+    def __init__(self,name,grade,percentage,team):   #methode
+        self.name = name
+        self.grade = grade
+        self.percentage = percentage
+        self.team = team
+    def student_details(self):   #methode
+        print(f"{self.name} is in {self.grade} with {self.percentage}% from {self.team}")
+team1 = "A"
+team2 = "B"
+
+student1 = Student("Abhi",10,90,team1)  #object
+student2 = Student("Akash",9,92,team2)  #object
+print(student1.name)
+student1.student_details()
+print(student2.team)
+print(student1.__dict__)
+print(student2.__dict__)
+
+student1.name = "Prem"        #name change
+print(student1.name)
+del student1.team             # delete team
+print(student1.__dict__)
+
+
