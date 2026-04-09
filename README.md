@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0414-third-maximum-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/2248-intersection-of-multiple-arrays) |
 ## Bit Manipulation
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0414-third-maximum-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/2248-intersection-of-multiple-arrays) |
 ## Binary Search
 |  |
