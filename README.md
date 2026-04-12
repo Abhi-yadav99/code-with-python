@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Abhi-yadav99/code-with-python/tree/master/0039-combination-sum) |
 | [0136-single-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0215-kth-largest-element-in-an-array) |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Abhi-yadav99/code-with-python/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
