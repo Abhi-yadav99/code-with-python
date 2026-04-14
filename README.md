@@ -86,4 +86,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Abhi-yadav99/code-with-python/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0216-combination-sum-iii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
