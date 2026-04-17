@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhi-yadav99/code-with-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Abhi-yadav99/code-with-python/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -114,9 +115,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Abhi-yadav99/code-with-python/tree/master/0234-palindrome-linked-list) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/2094-finding-3-digit-even-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Abhi-yadav99/code-with-python/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Abhi-yadav99/code-with-python/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
