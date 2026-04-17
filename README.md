@@ -96,10 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0100-same-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0100-same-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0100-same-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
 ## Trie
 |  |
 | ------- |
@@ -129,4 +132,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Abhi-yadav99/code-with-python/tree/master/0234-palindrome-linked-list) |
+| [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
