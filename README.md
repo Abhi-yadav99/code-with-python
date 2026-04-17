@@ -96,20 +96,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0101-symmetric-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0101-symmetric-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0101-symmetric-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
 ## Trie
 |  |
