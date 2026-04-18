@@ -145,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
+## Math
+|  |
+| ------- |
+| [2119-a-number-after-a-double-reversal](https://github.com/Abhi-yadav99/code-with-python/tree/master/2119-a-number-after-a-double-reversal) |
 <!---LeetCode Topics End-->
