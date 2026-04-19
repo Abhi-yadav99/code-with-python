@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Abhi-yadav99/code-with-python/tree/master/0234-palindrome-linked-list) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Abhi-yadav99/code-with-python/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/0002-add-two-numbers) |
 | [0258-add-digits](https://github.com/Abhi-yadav99/code-with-python/tree/master/0258-add-digits) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Abhi-yadav99/code-with-python/tree/master/2119-a-number-after-a-double-reversal) |
 ## Simulation
