@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Abhi-yadav99/code-with-python/tree/master/0204-count-primes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/2094-finding-3-digit-even-numbers) |
+| [2427-number-of-common-factors](https://github.com/Abhi-yadav99/code-with-python/tree/master/2427-number-of-common-factors) |
 ## Linked List
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Abhi-yadav99/code-with-python/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Abhi-yadav99/code-with-python/tree/master/0258-add-digits) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Abhi-yadav99/code-with-python/tree/master/2119-a-number-after-a-double-reversal) |
+| [2427-number-of-common-factors](https://github.com/Abhi-yadav99/code-with-python/tree/master/2427-number-of-common-factors) |
 ## Simulation
 |  |
 | ------- |
@@ -165,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Abhi-yadav99/code-with-python/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Abhi-yadav99/code-with-python/tree/master/0258-add-digits) |
+| [2427-number-of-common-factors](https://github.com/Abhi-yadav99/code-with-python/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
