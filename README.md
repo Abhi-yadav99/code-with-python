@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/Abhi-yadav99/code-with-python/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0216-combination-sum-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/0349-intersection-of-two-arrays) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Abhi-yadav99/code-with-python/tree/master/0204-count-primes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/2094-finding-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/0002-add-two-numbers) |
+| [0204-count-primes](https://github.com/Abhi-yadav99/code-with-python/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Abhi-yadav99/code-with-python/tree/master/0258-add-digits) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Abhi-yadav99/code-with-python/tree/master/2119-a-number-after-a-double-reversal) |
 ## Simulation
@@ -160,5 +163,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Abhi-yadav99/code-with-python/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Abhi-yadav99/code-with-python/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
