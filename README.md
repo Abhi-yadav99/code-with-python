@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhi-yadav99/code-with-python/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Abhi-yadav99/code-with-python/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhi-yadav99/code-with-python/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0033-search-in-rotated-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Abhi-yadav99/code-with-python/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhi-yadav99/code-with-python/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhi-yadav99/code-with-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Abhi-yadav99/code-with-python/tree/master/0016-3sum-closest) |
 | [0179-largest-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/0349-intersection-of-two-arrays) |
