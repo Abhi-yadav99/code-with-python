@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Abhi-yadav99/code-with-python/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/Abhi-yadav99/code-with-python/tree/master/0496-next-greater-element-i) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Abhi-yadav99/code-with-python/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/2094-finding-3-digit-even-numbers) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/2248-intersection-of-multiple-arrays) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Abhi-yadav99/code-with-python/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhi-yadav99/code-with-python/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Abhi-yadav99/code-with-python/tree/master/0496-next-greater-element-i) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Abhi-yadav99/code-with-python/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/2094-finding-3-digit-even-numbers) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/2248-intersection-of-multiple-arrays) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Abhi-yadav99/code-with-python/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Abhi-yadav99/code-with-python/tree/master/0496-next-greater-element-i) |
 | [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhi-yadav99/code-with-python/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search Tree
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Abhi-yadav99/code-with-python/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Abhi-yadav99/code-with-python/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
