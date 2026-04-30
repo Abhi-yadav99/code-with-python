@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Abhi-yadav99/code-with-python/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/Abhi-yadav99/code-with-python/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Abhi-yadav99/code-with-python/tree/master/0258-add-digits) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Abhi-yadav99/code-with-python/tree/master/2119-a-number-after-a-double-reversal) |
@@ -233,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhi-yadav99/code-with-python/tree/master/0496-next-greater-element-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Abhi-yadav99/code-with-python/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Abhi-yadav99/code-with-python/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
