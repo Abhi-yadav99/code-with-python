@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0040-combination-sum-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Abhi-yadav99/code-with-python/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Abhi-yadav99/code-with-python/tree/master/0204-count-primes) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Abhi-yadav99/code-with-python/tree/master/0062-unique-paths) |
+| [0152-maximum-product-subarray](https://github.com/Abhi-yadav99/code-with-python/tree/master/0152-maximum-product-subarray) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Abhi-yadav99/code-with-python/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Combinatorics
 |  |
