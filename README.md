@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Abhi-yadav99/code-with-python/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Abhi-yadav99/code-with-python/tree/master/0217-contains-duplicate) |
 | [0336-palindrome-pairs](https://github.com/Abhi-yadav99/code-with-python/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0414-third-maximum-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhi-yadav99/code-with-python/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0146-lru-cache](https://github.com/Abhi-yadav99/code-with-python/tree/master/0146-lru-cache) |
+| [0217-contains-duplicate](https://github.com/Abhi-yadav99/code-with-python/tree/master/0217-contains-duplicate) |
 | [0336-palindrome-pairs](https://github.com/Abhi-yadav99/code-with-python/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhi-yadav99/code-with-python/tree/master/0387-first-unique-character-in-a-string) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Abhi-yadav99/code-with-python/tree/master/0016-3sum-closest) |
 | [0179-largest-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Abhi-yadav99/code-with-python/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0414-third-maximum-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/2094-finding-3-digit-even-numbers) |
