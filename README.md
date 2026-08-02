@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhi-yadav99/code-with-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0143-reorder-list](https://github.com/Abhi-yadav99/code-with-python/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/Abhi-yadav99/code-with-python/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Abhi-yadav99/code-with-python/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/0349-intersection-of-two-arrays) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhi-yadav99/code-with-python/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/Abhi-yadav99/code-with-python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Abhi-yadav99/code-with-python/tree/master/0016-3sum-closest) |
+| [0148-sort-list](https://github.com/Abhi-yadav99/code-with-python/tree/main/0148-sort-list/) | Medium |
 | [0179-largest-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Abhi-yadav99/code-with-python/tree/master/0217-contains-duplicate) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Abhi-yadav99/code-with-python/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Abhi-yadav99/code-with-python/tree/main/0148-sort-list/) | Medium |
 | [0190-reverse-bits](https://github.com/Abhi-yadav99/code-with-python/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Abhi-yadav99/code-with-python/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0215-kth-largest-element-in-an-array) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/Abhi-yadav99/code-with-python/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/Abhi-yadav99/code-with-python/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/Abhi-yadav99/code-with-python/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Abhi-yadav99/code-with-python/tree/master/0234-palindrome-linked-list) |
 ## Stack
 | Problem Name | Difficulty |
@@ -272,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Abhi-yadav99/code-with-python/tree/master/2304-minimum-path-cost-in-a-grid) |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Abhi-yadav99/code-with-python/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
