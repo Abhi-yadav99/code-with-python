@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Abhi-yadav99/code-with-python/tree/main/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/Abhi-yadav99/code-with-python/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/Abhi-yadav99/code-with-python/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Abhi-yadav99/code-with-python/tree/master/0258-add-digits) |
