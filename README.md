@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Abhi-yadav99/code-with-python/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Abhi-yadav99/code-with-python/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Abhi-yadav99/code-with-python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Abhi-yadav99/code-with-python/tree/master/0016-3sum-closest) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Abhi-yadav99/code-with-python/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Abhi-yadav99/code-with-python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Abhi-yadav99/code-with-python/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Abhi-yadav99/code-with-python/tree/main/0011-container-with-most-water/) | Medium |
 | [0179-largest-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Abhi-yadav99/code-with-python/tree/master/0409-longest-palindrome) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhi-yadav99/code-with-python/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
