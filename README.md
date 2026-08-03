@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Abhi-yadav99/code-with-python/tree/main/0010-regular-expression-matching/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Abhi-yadav99/code-with-python/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhi-yadav99/code-with-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhi-yadav99/code-with-python/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Abhi-yadav99/code-with-python/tree/main/0010-regular-expression-matching/) | Hard |
 | [0143-reorder-list](https://github.com/Abhi-yadav99/code-with-python/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Abhi-yadav99/code-with-python/tree/master/0234-palindrome-linked-list) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/2094-finding-3-digit-even-numbers) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Abhi-yadav99/code-with-python/tree/main/0010-regular-expression-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/Abhi-yadav99/code-with-python/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Abhi-yadav99/code-with-python/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/Abhi-yadav99/code-with-python/tree/master/0131-palindrome-partitioning) |
