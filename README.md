@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Abhi-yadav99/code-with-python/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Abhi-yadav99/code-with-python/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Abhi-yadav99/code-with-python/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Abhi-yadav99/code-with-python/tree/master/0015-3sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Abhi-yadav99/code-with-python/tree/main/0001-two-sum/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhi-yadav99/code-with-python/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0146-lru-cache](https://github.com/Abhi-yadav99/code-with-python/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Abhi-yadav99/code-with-python/tree/master/0217-contains-duplicate) |
