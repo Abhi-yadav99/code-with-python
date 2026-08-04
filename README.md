@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Abhi-yadav99/code-with-python/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Abhi-yadav99/code-with-python/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Abhi-yadav99/code-with-python/tree/main/0055-jump-game/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Abhi-yadav99/code-with-python/tree/master/0152-maximum-product-subarray) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Abhi-yadav99/code-with-python/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/Abhi-yadav99/code-with-python/tree/main/0055-jump-game/) | Medium |
 | [0179-largest-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Abhi-yadav99/code-with-python/tree/master/0409-longest-palindrome) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhi-yadav99/code-with-python/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Abhi-yadav99/code-with-python/tree/main/0010-regular-expression-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/Abhi-yadav99/code-with-python/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Abhi-yadav99/code-with-python/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Abhi-yadav99/code-with-python/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/Abhi-yadav99/code-with-python/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Abhi-yadav99/code-with-python/tree/master/0152-maximum-product-subarray) |
