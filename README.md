@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Abhi-yadav99/code-with-python/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Abhi-yadav99/code-with-python/tree/main/0010-regular-expression-matching/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Abhi-yadav99/code-with-python/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Abhi-yadav99/code-with-python/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhi-yadav99/code-with-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhi-yadav99/code-with-python/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0131-palindrome-partitioning](https://github.com/Abhi-yadav99/code-with-python/tree/master/0131-palindrome-partitioning) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Abhi-yadav99/code-with-python/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Abhi-yadav99/code-with-python/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Abhi-yadav99/code-with-python/tree/main/0046-permutations/) | Medium |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Abhi-yadav99/code-with-python/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/Abhi-yadav99/code-with-python/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Abhi-yadav99/code-with-python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhi-yadav99/code-with-python/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Abhi-yadav99/code-with-python/tree/master/0062-unique-paths) |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Abhi-yadav99/code-with-python/tree/main/0056-merge-intervals/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Abhi-yadav99/code-with-python/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
