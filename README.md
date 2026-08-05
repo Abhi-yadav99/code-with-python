@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Abhi-yadav99/code-with-python/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Abhi-yadav99/code-with-python/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Abhi-yadav99/code-with-python/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/Abhi-yadav99/code-with-python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhi-yadav99/code-with-python/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Abhi-yadav99/code-with-python/tree/main/0056-merge-intervals/) | Medium |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Abhi-yadav99/code-with-python/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Abhi-yadav99/code-with-python/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Abhi-yadav99/code-with-python/tree/main/0078-subsets/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Abhi-yadav99/code-with-python/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0216-combination-sum-iii) |
