@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Abhi-yadav99/code-with-python/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/Abhi-yadav99/code-with-python/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Abhi-yadav99/code-with-python/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Abhi-yadav99/code-with-python/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Abhi-yadav99/code-with-python/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhi-yadav99/code-with-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Abhi-yadav99/code-with-python/tree/main/0088-merge-sorted-array/) | Easy |
 | [0143-reorder-list](https://github.com/Abhi-yadav99/code-with-python/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Abhi-yadav99/code-with-python/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Abhi-yadav99/code-with-python/tree/master/0234-palindrome-linked-list) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Abhi-yadav99/code-with-python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Abhi-yadav99/code-with-python/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Abhi-yadav99/code-with-python/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Abhi-yadav99/code-with-python/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Abhi-yadav99/code-with-python/tree/main/0148-sort-list/) | Medium |
 | [0179-largest-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0215-kth-largest-element-in-an-array) |
