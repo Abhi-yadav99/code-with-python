@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abhi-yadav99/code-with-python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhi-yadav99/code-with-python/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Abhi-yadav99/code-with-python/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Abhi-yadav99/code-with-python/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Abhi-yadav99/code-with-python/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhi-yadav99/code-with-python/tree/main/0088-merge-sorted-array/) | Easy |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhi-yadav99/code-with-python/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhi-yadav99/code-with-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Abhi-yadav99/code-with-python/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhi-yadav99/code-with-python/tree/main/0088-merge-sorted-array/) | Easy |
 | [0143-reorder-list](https://github.com/Abhi-yadav99/code-with-python/tree/main/0143-reorder-list/) | Medium |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Abhi-yadav99/code-with-python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Abhi-yadav99/code-with-python/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Abhi-yadav99/code-with-python/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Abhi-yadav99/code-with-python/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Abhi-yadav99/code-with-python/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Abhi-yadav99/code-with-python/tree/main/0148-sort-list/) | Medium |
 | [0179-largest-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0179-largest-number) |
@@ -319,8 +322,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Abhi-yadav99/code-with-python/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Abhi-yadav99/code-with-python/tree/main/0075-sort-colors/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Abhi-yadav99/code-with-python/tree/main/0022-generate-parentheses/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Abhi-yadav99/code-with-python/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
