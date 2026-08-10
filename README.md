@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Abhi-yadav99/code-with-python/tree/master/0496-next-greater-element-i) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Abhi-yadav99/code-with-python/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Abhi-yadav99/code-with-python/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/2094-finding-3-digit-even-numbers) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/2248-intersection-of-multiple-arrays) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Abhi-yadav99/code-with-python/tree/master/2304-minimum-path-cost-in-a-grid) |
