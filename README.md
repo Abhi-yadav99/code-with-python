@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Abhi-yadav99/code-with-python/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Abhi-yadav99/code-with-python/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Abhi-yadav99/code-with-python/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Abhi-yadav99/code-with-python/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/2094-finding-3-digit-even-numbers) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/2248-intersection-of-multiple-arrays) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Abhi-yadav99/code-with-python/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -341,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Abhi-yadav99/code-with-python/tree/main/0075-sort-colors/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Abhi-yadav99/code-with-python/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
