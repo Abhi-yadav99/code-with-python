@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Abhi-yadav99/code-with-python/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Abhi-yadav99/code-with-python/tree/main/0605-can-place-flowers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Abhi-yadav99/code-with-python/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Abhi-yadav99/code-with-python/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Abhi-yadav99/code-with-python/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/2094-finding-3-digit-even-numbers) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhi-yadav99/code-with-python/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0643-maximum-average-subarray-i](https://github.com/Abhi-yadav99/code-with-python/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
