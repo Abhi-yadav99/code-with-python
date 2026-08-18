@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhi-yadav99/code-with-python/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Abhi-yadav99/code-with-python/tree/main/0112-path-sum/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Abhi-yadav99/code-with-python/tree/main/0112-path-sum/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhi-yadav99/code-with-python/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Abhi-yadav99/code-with-python/tree/main/0112-path-sum/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
 ## Trie
 | Problem Name | Difficulty |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
 ## Math
 | Problem Name | Difficulty |
@@ -358,4 +362,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Abhi-yadav99/code-with-python/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Abhi-yadav99/code-with-python/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
