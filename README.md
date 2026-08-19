@@ -376,4 +376,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/Abhi-yadav99/code-with-python/tree/main/0997-find-the-town-judge/) | Easy |
+| [1791-find-center-of-star-graph](https://github.com/Abhi-yadav99/code-with-python/tree/main/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->
