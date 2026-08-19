@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abhi-yadav99/code-with-python/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Abhi-yadav99/code-with-python/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Abhi-yadav99/code-with-python/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0997-find-the-town-judge](https://github.com/Abhi-yadav99/code-with-python/tree/main/0997-find-the-town-judge/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Abhi-yadav99/code-with-python/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Abhi-yadav99/code-with-python/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Abhi-yadav99/code-with-python/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Abhi-yadav99/code-with-python/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Abhi-yadav99/code-with-python/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Abhi-yadav99/code-with-python/tree/master/0496-next-greater-element-i) |
+| [0997-find-the-town-judge](https://github.com/Abhi-yadav99/code-with-python/tree/main/0997-find-the-town-judge/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Abhi-yadav99/code-with-python/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/2094-finding-3-digit-even-numbers) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/2248-intersection-of-multiple-arrays) |
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0997-find-the-town-judge](https://github.com/Abhi-yadav99/code-with-python/tree/main/0997-find-the-town-judge/) | Easy |
 <!---LeetCode Topics End-->
