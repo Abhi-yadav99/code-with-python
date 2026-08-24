@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abhi-yadav99/code-with-python/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Abhi-yadav99/code-with-python/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Abhi-yadav99/code-with-python/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Abhi-yadav99/code-with-python/tree/master/0875-koko-eating-bananas) |
 | [0997-find-the-town-judge](https://github.com/Abhi-yadav99/code-with-python/tree/main/0997-find-the-town-judge/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Abhi-yadav99/code-with-python/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Abhi-yadav99/code-with-python/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi-yadav99/code-with-python/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/0349-intersection-of-two-arrays) |
+| [0875-koko-eating-bananas](https://github.com/Abhi-yadav99/code-with-python/tree/master/0875-koko-eating-bananas) |
 ## Counting
 |  |
 | ------- |
