@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Abhi-yadav99/code-with-python/tree/main/0112-path-sum/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0543-diameter-of-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Abhi-yadav99/code-with-python/tree/main/0112-path-sum/) | Easy |
 | [0207-course-schedule](https://github.com/Abhi-yadav99/code-with-python/tree/main/0207-course-schedule/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0543-diameter-of-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Abhi-yadav99/code-with-python/tree/main/0112-path-sum/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0543-diameter-of-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
 ## Trie
 |  |
@@ -409,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Abhi-yadav99/code-with-python/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
