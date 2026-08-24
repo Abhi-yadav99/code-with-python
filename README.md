@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Abhi-yadav99/code-with-python/tree/master/0875-koko-eating-bananas) |
 | [0997-find-the-town-judge](https://github.com/Abhi-yadav99/code-with-python/tree/main/0997-find-the-town-judge/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Abhi-yadav99/code-with-python/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1260-shift-2d-grid](https://github.com/Abhi-yadav99/code-with-python/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Abhi-yadav99/code-with-python/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Abhi-yadav99/code-with-python/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/2094-finding-3-digit-even-numbers) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Abhi-yadav99/code-with-python/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/Abhi-yadav99/code-with-python/tree/master/1260-shift-2d-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Abhi-yadav99/code-with-python/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Abhi-yadav99/code-with-python/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/Abhi-yadav99/code-with-python/tree/master/1260-shift-2d-grid) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Abhi-yadav99/code-with-python/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Merge Sort
 |  |
