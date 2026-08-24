@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Abhi-yadav99/code-with-python/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Abhi-yadav99/code-with-python/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Abhi-yadav99/code-with-python/tree/master/0435-non-overlapping-intervals) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Abhi-yadav99/code-with-python/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Abhi-yadav99/code-with-python/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Combinatorics
 |  |
@@ -404,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abhi-yadav99/code-with-python/tree/main/0207-course-schedule/) | Medium |
+## Graph Coloring
+|  |
+| ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Abhi-yadav99/code-with-python/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->
