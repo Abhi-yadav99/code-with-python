@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhi-yadav99/code-with-python/tree/main/0283-move-zeroes/) | Easy |
 | [0336-palindrome-pairs](https://github.com/Abhi-yadav99/code-with-python/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/0349-intersection-of-two-arrays) |
+| [0376-wiggle-subsequence](https://github.com/Abhi-yadav99/code-with-python/tree/master/0376-wiggle-subsequence) |
 | [0414-third-maximum-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Abhi-yadav99/code-with-python/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Abhi-yadav99/code-with-python/tree/master/0496-next-greater-element-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Abhi-yadav99/code-with-python/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Abhi-yadav99/code-with-python/tree/main/0055-jump-game/) | Medium |
 | [0179-largest-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0179-largest-number) |
+| [0376-wiggle-subsequence](https://github.com/Abhi-yadav99/code-with-python/tree/master/0376-wiggle-subsequence) |
 | [0409-longest-palindrome](https://github.com/Abhi-yadav99/code-with-python/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Abhi-yadav99/code-with-python/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Abhi-yadav99/code-with-python/tree/main/0605-can-place-flowers/) | Easy |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Abhi-yadav99/code-with-python/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Abhi-yadav99/code-with-python/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Abhi-yadav99/code-with-python/tree/master/0338-counting-bits) |
+| [0376-wiggle-subsequence](https://github.com/Abhi-yadav99/code-with-python/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Abhi-yadav99/code-with-python/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Abhi-yadav99/code-with-python/tree/master/0435-non-overlapping-intervals) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Abhi-yadav99/code-with-python/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
