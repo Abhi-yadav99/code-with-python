@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Abhi-yadav99/code-with-python/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/Abhi-yadav99/code-with-python/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Abhi-yadav99/code-with-python/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Abhi-yadav99/code-with-python/tree/main/0283-move-zeroes/) | Easy |
 | [0336-palindrome-pairs](https://github.com/Abhi-yadav99/code-with-python/tree/master/0336-palindrome-pairs) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abhi-yadav99/code-with-python/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Abhi-yadav99/code-with-python/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Abhi-yadav99/code-with-python/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/Abhi-yadav99/code-with-python/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/Abhi-yadav99/code-with-python/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/Abhi-yadav99/code-with-python/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Abhi-yadav99/code-with-python/tree/main/0392-is-subsequence/) | Easy |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Abhi-yadav99/code-with-python/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Abhi-yadav99/code-with-python/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi-yadav99/code-with-python/tree/master/0073-set-matrix-zeroes) |
+| [0221-maximal-square](https://github.com/Abhi-yadav99/code-with-python/tree/master/0221-maximal-square) |
 | [1260-shift-2d-grid](https://github.com/Abhi-yadav99/code-with-python/tree/master/1260-shift-2d-grid) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Abhi-yadav99/code-with-python/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Merge Sort
