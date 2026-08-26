@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Abhi-yadav99/code-with-python/tree/main/0078-subsets/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Abhi-yadav99/code-with-python/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0216-combination-sum-iii) |
+| [0797-all-paths-from-source-to-target](https://github.com/Abhi-yadav99/code-with-python/tree/master/0797-all-paths-from-source-to-target) |
 ## Tree
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Abhi-yadav99/code-with-python/tree/main/0207-course-schedule/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0543-diameter-of-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/Abhi-yadav99/code-with-python/tree/master/0797-all-paths-from-source-to-target) |
 | [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhi-yadav99/code-with-python/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Abhi-yadav99/code-with-python/tree/main/0112-path-sum/) | Easy |
 | [0207-course-schedule](https://github.com/Abhi-yadav99/code-with-python/tree/main/0207-course-schedule/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/Abhi-yadav99/code-with-python/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abhi-yadav99/code-with-python/tree/main/0207-course-schedule/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/Abhi-yadav99/code-with-python/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/Abhi-yadav99/code-with-python/tree/main/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/Abhi-yadav99/code-with-python/tree/main/1791-find-center-of-star-graph/) | Easy |
 ## Topological Sort
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abhi-yadav99/code-with-python/tree/main/0207-course-schedule/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/Abhi-yadav99/code-with-python/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Coloring
 |  |
 | ------- |
