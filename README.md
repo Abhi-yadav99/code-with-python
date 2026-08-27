@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abhi-yadav99/code-with-python/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Abhi-yadav99/code-with-python/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Abhi-yadav99/code-with-python/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0695-max-area-of-island](https://github.com/Abhi-yadav99/code-with-python/tree/master/0695-max-area-of-island) |
 | [0773-sliding-puzzle](https://github.com/Abhi-yadav99/code-with-python/tree/master/0773-sliding-puzzle) |
 | [0875-koko-eating-bananas](https://github.com/Abhi-yadav99/code-with-python/tree/master/0875-koko-eating-bananas) |
 | [0997-find-the-town-judge](https://github.com/Abhi-yadav99/code-with-python/tree/main/0997-find-the-town-judge/) | Easy |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Abhi-yadav99/code-with-python/tree/main/0207-course-schedule/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Abhi-yadav99/code-with-python/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/Abhi-yadav99/code-with-python/tree/master/0797-all-paths-from-source-to-target) |
 | [0897-increasing-order-search-tree](https://github.com/Abhi-yadav99/code-with-python/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhi-yadav99/code-with-python/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Abhi-yadav99/code-with-python/tree/main/0112-path-sum/) | Easy |
 | [0207-course-schedule](https://github.com/Abhi-yadav99/code-with-python/tree/main/0207-course-schedule/) | Medium |
+| [0695-max-area-of-island](https://github.com/Abhi-yadav99/code-with-python/tree/master/0695-max-area-of-island) |
 | [0773-sliding-puzzle](https://github.com/Abhi-yadav99/code-with-python/tree/master/0773-sliding-puzzle) |
 | [0797-all-paths-from-source-to-target](https://github.com/Abhi-yadav99/code-with-python/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Tree
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Abhi-yadav99/code-with-python/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi-yadav99/code-with-python/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/Abhi-yadav99/code-with-python/tree/master/0221-maximal-square) |
+| [0695-max-area-of-island](https://github.com/Abhi-yadav99/code-with-python/tree/master/0695-max-area-of-island) |
 | [0773-sliding-puzzle](https://github.com/Abhi-yadav99/code-with-python/tree/master/0773-sliding-puzzle) |
 | [1260-shift-2d-grid](https://github.com/Abhi-yadav99/code-with-python/tree/master/1260-shift-2d-grid) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Abhi-yadav99/code-with-python/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -454,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/Abhi-yadav99/code-with-python/tree/master/0773-sliding-puzzle) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Abhi-yadav99/code-with-python/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
