@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Abhi-yadav99/code-with-python/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Abhi-yadav99/code-with-python/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Abhi-yadav99/code-with-python/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1991-find-the-middle-index-in-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/1991-find-the-middle-index-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi-yadav99/code-with-python/tree/master/2094-finding-3-digit-even-numbers) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Abhi-yadav99/code-with-python/tree/master/2248-intersection-of-multiple-arrays) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Abhi-yadav99/code-with-python/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi-yadav99/code-with-python/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Abhi-yadav99/code-with-python/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Abhi-yadav99/code-with-python/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/Abhi-yadav99/code-with-python/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Lifting
 |  |
 | ------- |
