@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Abhi-yadav99/code-with-python/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Abhi-yadav99/code-with-python/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Abhi-yadav99/code-with-python/tree/master/0214-shortest-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/Abhi-yadav99/code-with-python/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/Abhi-yadav99/code-with-python/tree/master/0336-palindrome-pairs) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhi-yadav99/code-with-python/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Abhi-yadav99/code-with-python/tree/main/0392-is-subsequence/) | Easy |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Abhi-yadav99/code-with-python/tree/main/0078-subsets/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Abhi-yadav99/code-with-python/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Abhi-yadav99/code-with-python/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Abhi-yadav99/code-with-python/tree/master/0301-remove-invalid-parentheses) |
 | [0773-sliding-puzzle](https://github.com/Abhi-yadav99/code-with-python/tree/master/0773-sliding-puzzle) |
 | [0797-all-paths-from-source-to-target](https://github.com/Abhi-yadav99/code-with-python/tree/master/0797-all-paths-from-source-to-target) |
 ## Tree
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhi-yadav99/code-with-python/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Abhi-yadav99/code-with-python/tree/main/0112-path-sum/) | Easy |
 | [0207-course-schedule](https://github.com/Abhi-yadav99/code-with-python/tree/main/0207-course-schedule/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Abhi-yadav99/code-with-python/tree/master/0301-remove-invalid-parentheses) |
 | [0695-max-area-of-island](https://github.com/Abhi-yadav99/code-with-python/tree/master/0695-max-area-of-island) |
 | [0773-sliding-puzzle](https://github.com/Abhi-yadav99/code-with-python/tree/master/0773-sliding-puzzle) |
 | [0797-all-paths-from-source-to-target](https://github.com/Abhi-yadav99/code-with-python/tree/master/0797-all-paths-from-source-to-target) |
